@@ -80,11 +80,13 @@ _includes/themes/変更したいテーマ/default.html
 
 ### tags
 
-  <ul class="tag_box inline" style="list-style:none">
-    {% assign tags_list = page.tags %}
-    {% include JB/tags_list %}
-  </ul>  
-  <br/ >
+{の直後と}の直前の空白を消してから張ること
+
+	<ul class="tag_box inline" style="list-style:none">
+	  { % assign tags_list = page.tags % }
+	  { % include JB/tags_list % }
+	</ul>  
+	<br/ >
 
 ### related posts
 
