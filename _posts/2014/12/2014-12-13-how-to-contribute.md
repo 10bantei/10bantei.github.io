@@ -6,7 +6,7 @@ layout: post
 slug: how-to-contribute
 title: 投稿方法(Octopressの方法)
 categories: Octpress
-tags: Octpress Web GithubPages arukakan さぎにゃん
+tags: Octpress Web GithubPages arukakan
 ---
 
 [jekyllに移行したので、管理は別になりました。](/2014/12/13/how-to-contribute-updated)
