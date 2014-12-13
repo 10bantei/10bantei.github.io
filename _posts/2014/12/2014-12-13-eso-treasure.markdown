@@ -23,7 +23,9 @@ The Elder Scrolls Onlineはじめました！
 
 コレ  
 
-![宝の地図](/img/12/13/map1-thumb.png)
+<a href="/img/12/13/map1.png">
+	<img src="/img/12/13/map1-thumb.png">
+</a>
 
 これを持っていれば宝が埋まるようになるらしい。  
 "宝の地図を所持していると、フィールド上で土が盛ってある場所を発見することができます。"
