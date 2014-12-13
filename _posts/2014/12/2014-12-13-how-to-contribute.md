@@ -10,11 +10,12 @@ tags: Octpress Web GithubPages arukakan
 ---
 
 <!-- more -->
-  <ul class="tag_box inline" style="list-style:none">
-    {% assign tags_list = page.tags %}
-    {% include JB/tags_list %}
-  </ul>
-  <br/ >
+<ul class="tag_box inline" style="list-style:none">
+  {% assign tags_list = page.tags %}
+  {% include JB/tags_list %}
+</ul>
+
+<br />
 
 <!-- ここまでテンプレ -->
 
