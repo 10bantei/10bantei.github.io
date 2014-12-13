@@ -1,7 +1,7 @@
 ---
 author: arukakan
 comments: true
-date: 2014-12-13 00:12:12+00:00
+date: 2014-12-13 22:12:12+00:00
 layout: post
 slug: how-to-contribute
 title: 投稿方法(コントリビュータ求む)
