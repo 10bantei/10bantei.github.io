@@ -25,7 +25,8 @@ Youtube : [十番亭チャンネル](https://www.youtube.com/channel/UC-vxS0c8M-
 ニコ動 : これから
 
 メンバーで初めて配信のテストをした時はこんな感じでした  
-{% youtube 9aV0lLX4kXA %}
+
+<div class="bt-video-container"><iframe width="560" height="315" src="//www.youtube.com/embed/9aV0lLX4kXA" frameborder="0" allowfullscreen></iframe></div>
 
 ## 書こうと思っていること
 
