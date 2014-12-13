@@ -10,6 +10,13 @@ tags: ESO TESO arukakan
 ---
 
 <!-- more -->
+  <ul class="tag_box inline" style="list-style:none">
+    {% assign tags_list = page.tags %}
+    {% include JB/tags_list %}
+  </ul>
+  <br/ >
+
+<!-- ここまでテンプレ -->
 
 The Elder Scrolls Onlineはじめました！  
 いろいろわからないことだらけでぐぐりながら進める毎日。  

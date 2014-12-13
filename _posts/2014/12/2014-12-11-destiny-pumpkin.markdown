@@ -10,6 +10,13 @@ tags: ingress iPhone Android tk神
 ---
 
 <!-- more -->
+  <ul class="tag_box inline" style="list-style:none">
+    {% assign tags_list = page.tags %}
+    {% include JB/tags_list %}
+  </ul>
+  <br/ >
+
+<!-- ここまでテンプレ -->
 
 <a  href="/img/12/11/35143a9f.png" title="1" target="_blank"><img  src="/img/12/11/35143a9f-s.png" width="480" height="270" border="0" alt="1" hspace="5" class="pict"></a><br />
 <p>とある情報筋から、</p>

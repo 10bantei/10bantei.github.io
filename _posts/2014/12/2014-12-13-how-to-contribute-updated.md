@@ -9,6 +9,15 @@ categories: Octpress
 tags: Web GithubPages arukakan
 ---
 
+<!-- more -->
+  <ul class="tag_box inline" style="list-style:none">
+    {% assign tags_list = page.tags %}
+    {% include JB/tags_list %}
+  </ul>
+  <br/ >
+
+<!-- ここまでテンプレ -->
+
 ## かんがえかた
 
 せっかくgithubで管理するので記事募集してもいいかも。  
@@ -31,6 +40,10 @@ MITライセンス？
 	_posts/年/月(二桁埋め)
 
 ディレクトリの下にmarkdownファイルを設置する。  
+タグやらヘッダやらおまじないが結構あるので、  
+既存のファイルをコピペして、  
+"ここまでテンプレ"  
+という部分までは流用する。  
 (これはじゅうばんていの運用ポリシーとしてそうするだけ)
 
 ## 画像等のリソースのアップロード
@@ -59,8 +72,7 @@ a.fff.io/img/年/月/ファイル名
 
 [ココを見て](http://jekyllbootstrap.com/usage/jekyll-theming.html)  
 
-現状、テーマにはanalyticsとコメント欄とタイトルの下のタグ、  
-あとrelated postの分を変更を追加してあるため、  
+現状、テーマにはanalyticsとコメント欄とrelated postの分を変更を追加してあるため、  
 変更後のテーマにも同様の内容を追加する。  
 
 ### analytics
@@ -77,16 +89,6 @@ _includes/themes/変更したいテーマ/default.html
       ga('send', 'pageview');
     
     </script>
-
-### tags
-
-{の直後と}の直前の空白を消してから張ること
-
-	<ul class="tag_box inline" style="list-style:none">
-	  { % assign tags_list = page.tags % }
-	  { % include JB/tags_list % }
-	</ul>  
-	<br/ >
 
 ### related posts
 
