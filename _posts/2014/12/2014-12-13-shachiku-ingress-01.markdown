@@ -9,15 +9,9 @@ categories: game
 tags: ingress iPhone Android arukakan
 ---
 
-<!-- more -->
-<ul class="tag_box inline" style="list-style:none">
-  {% assign tags_list = page.tags %}
-  {% include JB/tags_list %}
-</ul>
-
-<br />
-
 <!-- ここまでテンプレ -->
+
+<!-- more -->
 
 社畜であんまりお出かけできないけどいんぐれすやるよ！  
 基本的に通勤中しかやらないよ！  

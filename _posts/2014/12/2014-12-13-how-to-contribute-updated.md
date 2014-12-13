@@ -9,15 +9,9 @@ categories: Octpress
 tags: Web GithubPages arukakan
 ---
 
-<!-- more -->
-<ul class="tag_box inline" style="list-style:none">
-  {% assign tags_list = page.tags %}
-  {% include JB/tags_list %}
-</ul>
-
-<br />
-
 <!-- ここまでテンプレ -->
+
+<!-- more -->
 
 ## かんがえかた
 
@@ -73,7 +67,8 @@ a.fff.io/img/年/月/ファイル名
 
 [ココを見て](http://jekyllbootstrap.com/usage/jekyll-theming.html)  
 
-現状、テーマにはanalyticsとコメント欄とrelated postの分を変更を追加してあるため、  
+現状、テーマにはanalyticsとコメント欄とタイトルの下のタグ、  
+あとrelated postの分を変更を追加してあるため、  
 変更後のテーマにも同様の内容を追加する。  
 
 ### analytics
@@ -91,18 +86,30 @@ _includes/themes/変更したいテーマ/default.html
     
     </script>
 
+### tags
+
+_includes/themes/変更したいテーマ/post.html  
+
+{の直後と}の直前の空白を消してから張ること
+
+  <ul class="tag_box inline" style="list-style:none">
+    { % assign tags_list = page.tags % }
+    { % include JB/tags_list % }
+  </ul>  
+  <br/ >
+
 ### related posts
 
 _includes/themes/変更したいテーマ/post.html  
 
 {の直後と}の直前の空白を消してから張ること
 
-	<h3>related posts</h3>
-	<ul class="posts">
-	  { % for post in site.related_posts % }
-	    <li><span>{ { post.date | date_to_string } }</span> &raquo; <a href="{ { BASE_PATH } }{ { post	.url } }">{ { post.title } }</a></li>
-	  { % endfor % }
-	</ul>
+  <h3>related posts</h3>
+  <ul class="posts">
+    { % for post in site.related_posts % }
+      <li><span>{ { post.date | date_to_string } }</span> &raquo; <a href="{ { BASE_PATH } }{ { post  .url } }">{ { post.title } }</a></li>
+    { % endfor % }
+  </ul>
 
 ### comment欄
 

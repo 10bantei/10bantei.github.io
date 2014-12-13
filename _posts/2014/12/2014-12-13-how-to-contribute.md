@@ -9,15 +9,9 @@ categories: Octpress
 tags: Octpress Web GithubPages arukakan
 ---
 
-<!-- more -->
-<ul class="tag_box inline" style="list-style:none">
-  {% assign tags_list = page.tags %}
-  {% include JB/tags_list %}
-</ul>
-
-<br />
-
 <!-- ここまでテンプレ -->
+
+<!-- more -->
 
 [jekyllに移行したので、管理は別になりました。](/2014/12/13/how-to-contribute-updated)
 
