@@ -75,10 +75,6 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  comments :
-    provider : disqus
-    disqus :
-      short_name : jutantei
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
