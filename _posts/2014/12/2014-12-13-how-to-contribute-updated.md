@@ -5,6 +5,7 @@ date: 2014-12-13 22:12:12+00:00
 layout: post
 slug: how-to-contribute
 title: 投稿方法(コントリビュータ求む)
+excerpt: 記事に寄稿の仕方をまとめたよ
 categories: Octpress
 tags: Web GithubPages arukakan
 ---
@@ -16,7 +17,7 @@ tags: Web GithubPages arukakan
 ## かんがえかた
 
 せっかくgithubで管理するので記事募集してもいいかも。  
-MITライセンス？ 
+MITライセンス？
 
 ## セットアップ
 
@@ -80,10 +81,10 @@ _includes/themes/変更したいテーマ/default.html
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    
+
       ga('create', 'UA-57632046-1', 'auto');
       ga('send', 'pageview');
-    
+
     </script>
 
 ### tags
@@ -137,15 +138,3 @@ _includes/JB/comments(これはテーマ共通のため修正不要)
 source/CNAME
 
 にドメインをベタ書き。絶対消さないこと。
-
-
-
-
-
-
-
-
-
-
-
-

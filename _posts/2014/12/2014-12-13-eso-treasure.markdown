@@ -3,18 +3,17 @@ author: arukakan
 comments: true
 layout: post
 title: "[ESO]宝の地図ってどうやって使うのん"
+excerpt: The Elder Scrolls Onlineはじめました！いろいろわからないことだらけでぐぐりながら進める毎日。日本語の情報がWeb上に一切ないので、英語を読みながら進めています。
 slug: eso-treasure
 date: 2014-12-13 19:03:08 +0900
 categories: game
 tags: ESO TESO arukakan
 ---
-<!-- ここまでテンプレ -->
-
-<!-- more -->
 
 The Elder Scrolls Onlineはじめました！  
 いろいろわからないことだらけでぐぐりながら進める毎日。  
-日本語の情報がWeb上に一切ないので、英語を読みながら進めています。  
+日本語の情報がWeb上に一切ないので、英語を読みながら進めています。
+<!--more-->
 
 と、日本語の情報も見つけた。  
 日本では何故かTESOって略されているらしい。  
@@ -69,5 +68,3 @@ LV.1って書いてあるからしょぼいのかな。
 <a href="/img/12/13/map6.png">
 	<img src="/img/12/13/map6-thumb.png">
 </a>
-
-

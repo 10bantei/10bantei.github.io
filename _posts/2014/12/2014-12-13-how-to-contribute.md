@@ -5,6 +5,7 @@ date: 2014-12-13 00:12:12+00:00
 layout: post
 slug: how-to-contribute
 title: 投稿方法(Octopressの方法)
+excerpt: 記事に寄稿の仕方をまとめたよ
 categories: Octpress
 tags: Octpress Web GithubPages arukakan
 ---
@@ -18,7 +19,7 @@ tags: Octpress Web GithubPages arukakan
 ## かんがえかた
 
 せっかくgithubで管理するので記事募集してもいいかも。  
-MITライセンス？ 
+MITライセンス？
 
 ## ブランチの構成
 
@@ -28,7 +29,7 @@ source: markdownファイルやその他の原稿ファイル
 なので、記事作成の際にはsourceを編集し、  
 masterをoctpressの機能で生成 & deployすることになる。
 
-	git clone git@github.com:10bantei/10bantei.github.io.git	
+	git clone git@github.com:10bantei/10bantei.github.io.git
 	git fetch origin source
 	git checkout -f source
 
@@ -78,13 +79,13 @@ markdownを編集したら、
 	rake deploy
 
 すれば記事がアップロードされる。  
-反映までにgithub内で処理があるので10分程度かかる模様。	  
+反映までにgithub内で処理があるので10分程度かかる模様。
 このままだとブログがmasterにpushされているだけなので、  
 原稿の方もpushしておく。  
 
 	git add -A
 	git commit -m '編集内容の説明'
-	git push origin source 
+	git push origin source
 
 ## 画像等のリソースのアップロード
 
@@ -123,5 +124,3 @@ source/CNAME
 octograyの機能がバグってるっぽいので後で確認  
 or  
 別のテーマに変更
-
-
