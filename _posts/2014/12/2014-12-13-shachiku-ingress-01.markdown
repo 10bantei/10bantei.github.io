@@ -1,9 +1,11 @@
 ---
 author: arukakan
 comments: true
-layout: post
+layout: article
 title: "社畜だけどいんぐれすやるよ！ #その1"
 excerpt: 社畜であんまりお出かけできないけどいんぐれすやるよ！基本的に通勤中しかやらないよ！ということで先週初めたけど今Lv.6まできた。一週間でも結構レベル上がるみたい。ノウハウ的なものを残しておく。
+image:
+  teaser: common/game400x250.gif #400x250.png
 slug: shachiku-no-ingress-02
 date: 2014-12-13 14:03:08 +0900
 categories: game

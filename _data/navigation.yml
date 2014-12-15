@@ -1,0 +1,31 @@
+# Site navigation links
+
+- title: Archive
+  url: /archive/
+  excerpt: 記事一覧
+  image: common/archive300x200.gif
+
+# - title: Category
+#   url: /categories.html
+#   excerpt: カテゴリー
+#   image: common/category300x200.gif
+
+# - title: Tag
+#   url: /tags.html
+#   excerpt: タグ
+#   image: common/tag300x200.gif
+
+- title: Game
+  url: /game/
+  excerpt: ゲームの攻略やプレイ日記など
+  image: common/game300x200.gif
+
+- title: Tech
+  url: /tech/
+  excerpt: 技術関連やツールなど
+  image: common/tech300x200.gif
+
+- title: Media
+  url: /media/
+  excerpt: プレイ動画など
+  image: common/media300x200.gif

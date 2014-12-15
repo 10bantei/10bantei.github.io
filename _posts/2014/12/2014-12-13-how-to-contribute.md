@@ -2,11 +2,13 @@
 author: arukakan
 comments: true
 date: 2014-12-13 00:12:12+00:00
-layout: post
+layout: article
 slug: how-to-contribute
 title: 投稿方法(Octopressの方法)
 excerpt: 記事に寄稿の仕方をまとめたよ
-categories: Octpress
+image:
+  teaser: common/tech400x250.gif #400x250.png
+categories: tech
 tags: Octpress Web GithubPages arukakan
 ---
 
@@ -89,10 +91,10 @@ markdownを編集したら、
 
 ## 画像等のリソースのアップロード
 
-source/img/年/月(2桁0埋め)
+source/images/年/月(2桁0埋め)
 
 の下にファイルを配置すると、
-a.fff.io/img/年/月/ファイル名  
+a.fff.io/images/年/月/ファイル名  
 でアクセス可能。
 
 ## テーマの反映

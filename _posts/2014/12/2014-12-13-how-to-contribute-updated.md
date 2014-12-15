@@ -2,11 +2,13 @@
 author: arukakan
 comments: true
 date: 2014-12-13 22:12:12+00:00
-layout: post
+layout: article
 slug: how-to-contribute
 title: 投稿方法(コントリビュータ求む)
 excerpt: 記事に寄稿の仕方をまとめたよ
-categories: Octpress
+image:
+  teaser: common/tech400x250.gif #400x250.png
+categories: tech
 tags: Web GithubPages arukakan
 ---
 
@@ -44,22 +46,22 @@ MITライセンス？
 
 ## 画像等のリソースのアップロード
 
-img/年/月(2桁0埋め)
+images/年/月(2桁0埋め)
 
 の下にファイルを配置すると、
-a.fff.io/img/年/月/ファイル名  
+a.fff.io/images/年/月/ファイル名  
 でアクセス可能。
 
 ## 投稿
 
 必ずローカルで確認してからポストすること
 
-	jekyll server
+	bundle exec jekyll serve
 
 で起動。localhost:4000にアクセスして確認。  
 確認できたら、
 
-	jekyll build
+	bundle exec jekyll build
 	git add -A
 	git commit -m '編集内容の説明'
 	git push
@@ -105,14 +107,12 @@ _includes/themes/変更したいテーマ/post.html
 
 {の直後と}の直前の空白を消してから張ること
 
-
     <h3>related posts</h3>
     <ul class="posts">
       { % for post in site.related_posts % }
         <li><span>{ { post.date | date_to_string } }</span> &raquo; <a href="{ { BASE_PATH } }{ { post  .url } }">{ { post.title } }</a></li>
       { % endfor % }
     </ul>
-
 
 ### comment欄
 
@@ -131,7 +131,6 @@ _includes/JB/comments(これはテーマ共通のため修正不要)
         })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
 
 ## 独自ドメイン
 

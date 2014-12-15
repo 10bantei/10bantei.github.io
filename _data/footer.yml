@@ -1,0 +1,11 @@
+# Footer navigation links
+
+- title: Home
+  url: /
+
+- title: Member
+  url: /member.html
+
+- title: Contact
+  url: /contact.html
+
