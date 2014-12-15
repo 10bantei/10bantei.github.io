@@ -5,8 +5,7 @@ description: げーむとぎじゅつのむだづかい。ゲームに関する�
 logo: common/logo120x120.png # 120x120 px default image used for Twitter summary card
 teaser: common/noimage400x250.gif # 400x250 px default teaser image used in image archive grid
 locale:
-url: http://a.fff.io
-url: http://localhost:4000
+url: ""
 
 production_url : http://a.fff.io
 
