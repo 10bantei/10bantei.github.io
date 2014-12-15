@@ -1,27 +1,42 @@
-# This is the default format.
-# For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:year/:month/:day/:title
+# Site wide configuration
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "vender"]
-highlighter: pygments
+title: じゅうばんていぶろぐ
+description: げーむとぎじゅつのむだづかい。ゲームに関する情報や配信をしながら、ゲームに便利なツールなども提供していきます。
+logo: common/logo120x120.png # 120x120 px default image used for Twitter summary card
+teaser: common/noimage400x250.gif # 400x250 px default teaser image used in image archive grid
+locale:
+url: ""
 
-# Themes are encouraged to use these universal variables
-# so be sure to set them if your theme uses them.
-#
-title : じゅうばんていぶろぐ
-tagline: げーむとぎじゅつのむだづかい
-author :
-  name : arukakan
-
-# The production_url is only used when full-domain names are needed
-# such as sitemap.txt
-# Most places will/should use BASE_PATH to make the urls
-#
-# If you have set a CNAME (pages.github.com) set your custom domain here.
-# Else if you are pushing to username.github.io, replace with your username.
-# Finally if you are pushing to a GitHub project page, include the project name at the end.
-#
 production_url : http://a.fff.io
+
+# Jekyll configuration
+
+sass:
+    sass_dir: _sass
+    style: compressed
+# permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title
+markdown: kramdown
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner:
+  name: jubantei
+  email: 10bantei@googlegroups.com
+  twitter:
+  google:
+    ad-client: 
+    ad-slot: 
+  bio: ""
+  avatar: common/bio-photo.jpg # 160x160 px image for author byline
+disqus-shortname: jubantei
+
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: 'UA-57632046-1'
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -71,42 +86,4 @@ JB :
   atom_path : /atom.xml
   rss_path : /rss.xml
 
-  # Settings for comments helper
-  # Set 'provider' to the comment provider you want to use.
-  # Set 'provider' to false to turn commenting off globally.
-  #
-
-  # Settings for analytics helper
-  # Set 'provider' to the analytics provider you want to use.
-  # Set 'provider' to false to turn analytics off globally.
-  #
-  analytics :
-    provider : google
-    google :
-        tracking_id : 'UA-57632046-1'
-    getclicky :
-      site_id :
-    mixpanel :
-        token : '_MIXPANEL_TOKEN_'
-    piwik :
-        baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
-        idsite : '1'                   # the id of the site on Piwik
-
-  # Settings for sharing helper.
-  # Sharing is for things like tweet, plusone, like, reddit buttons etc.
-  # Set 'provider' to the sharing provider you want to use.
-  # Set 'provider' to false to turn sharing off globally.
-  #
-  sharing :
-    provider : false
-
-  # Settings for all other include helpers can be defined by creating
-  # a hash with key named for the given helper. ex:
-  #
-  #   pages_list :
-  #     provider : "custom"
-  #
-  # Setting any helper's provider to 'custom' will bypass the helper code
-  # and include your custom code. Your custom file must be defined at:
-  #   ./_includes/custom/[HELPER]
-  # where [HELPER] is the name of the helper you are overriding.
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

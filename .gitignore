@@ -8,3 +8,10 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
+node_modules
+_asset_bundler_cache
+.sass-cache
