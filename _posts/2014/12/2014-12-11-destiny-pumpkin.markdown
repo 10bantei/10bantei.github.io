@@ -9,7 +9,7 @@ image:
 slug: destiny-pumpkin
 date: 2014-12-11 14:03:08 +0900
 categories: game
-tags: ingress iPhone Android tk神
+tags: Destiny tk神
 ---
 
 <!-- more -->

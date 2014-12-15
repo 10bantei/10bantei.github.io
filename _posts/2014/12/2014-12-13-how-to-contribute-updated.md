@@ -9,7 +9,7 @@ excerpt: 記事に寄稿の仕方をまとめたよ
 image:
   teaser: common/tech400x250.gif #400x250.png
 categories: tech
-tags: Web GithubPages arukakan
+tags: JekyllBootstrap Web GithubPages arukakan
 ---
 
 <!-- ここまでテンプレ -->
