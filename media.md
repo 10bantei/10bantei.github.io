@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /media/
+permalink: /media/index.html
 title: "Media"
 ---
 

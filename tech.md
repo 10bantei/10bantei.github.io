@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /tech/
+permalink: /tech/index.html
 title: "Game"
 excerpt: げーむとぎじゅつのむだづかい。ゲームに関する情報や配信をしながら、ゲームに便利なツールなども提供していきます。
 meta_keywords: game, ゲーム, 攻略, ツール, 配信

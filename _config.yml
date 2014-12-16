@@ -4,10 +4,9 @@ title: じゅうばんていぶろぐ
 description: げーむとぎじゅつのむだづかい。ゲームに関する情報や配信をしながら、ゲームに便利なツールなども提供していきます。
 logo: common/logo120x120.png # 120x120 px default image used for Twitter summary card
 teaser: common/noimage400x250.gif # 400x250 px default teaser image used in image archive grid
-locale:
-url: ""
-
-production_url : http://a.fff.io
+locale: 
+url: http://a.fff.io
+relative_path: ""
 
 # Jekyll configuration
 
@@ -18,8 +17,6 @@ sass:
 permalink: /:year/:month/:day/:title
 markdown: kramdown
 highlighter: pygments
-gems:
-  - jekyll-sitemap
 
 
 # Site owner
@@ -34,6 +31,8 @@ owner:
   avatar: common/bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname: jubantei
 
+gems:
+  - jekyll-sitemap
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 'UA-57632046-1'
@@ -85,5 +84,6 @@ JB :
   tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml
+  sitemap_path : /sitemap.xml
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
