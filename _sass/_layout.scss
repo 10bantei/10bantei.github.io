@@ -115,7 +115,8 @@
 // --------------------------------------------------
 
 #page-wrapper {
-	padding: 0 $gutter; // add white space for smaller screens
+	padding: 0 0.5em; // add white space for smaller screens
+//	padding: 0 $gutter; // add white space for smaller screens
 	@include size(100% 100%);
 	-webkit-overflow-scrolling: touch;
 	z-index: 2;
@@ -142,6 +143,9 @@
 // --------------------------------------------------
 
 #main {
+	background-color: white;
+	box-shadow: 3px 10px 10px 3px rgba(0,0,0,0.4);
+	padding: 15px;
 	.inner-wrap {
 		@include media($medium) {
 			@include span-columns(9);

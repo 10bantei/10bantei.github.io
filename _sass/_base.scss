@@ -3,6 +3,7 @@
 
 body {
 	font-family: $base-font;
+	background-color: ivory;
 	color: $text-color;
 	@include font-size(16);
 }
