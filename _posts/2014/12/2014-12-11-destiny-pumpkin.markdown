@@ -10,6 +10,7 @@ slug: destiny-pumpkin
 date: 2014-12-11 14:03:08 +0900
 categories: game
 tags: Destiny tk神
+ads: true
 ---
 
 <!-- more -->

@@ -10,6 +10,7 @@ slug: shachiku-no-ingress-02
 date: 2014-12-13 15:03:08 +0900
 categories: game
 tags: ingress iPhone Android arukakan
+ads: true
 ---
 なんかingress起動したら一面緑色なんですけど。
 <!--more-->

@@ -10,6 +10,7 @@ slug: shachiku-no-ingress-02
 date: 2014-12-13 14:03:08 +0900
 categories: game
 tags: ingress iPhone Android arukakan
+ads: true
 ---
 
 社畜であんまりお出かけできないけどいんぐれすやるよ！  

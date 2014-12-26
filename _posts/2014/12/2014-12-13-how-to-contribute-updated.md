@@ -10,6 +10,7 @@ image:
   teaser: common/tech400x250.gif #400x250.png
 categories: tech
 tags: JekyllBootstrap Web GithubPages arukakan
+ads: true
 ---
 
 <!-- ここまでテンプレ -->

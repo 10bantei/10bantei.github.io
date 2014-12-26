@@ -10,6 +10,7 @@ slug: eso-treasure
 date: 2014-12-13 19:03:08 +0900
 categories: game
 tags: ESO TESO arukakan
+ads: true
 ---
 
 The Elder Scrolls Onlineはじめました！  

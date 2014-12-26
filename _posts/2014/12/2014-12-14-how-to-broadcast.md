@@ -10,6 +10,7 @@ image:
   teaser: 12/14/destiny-400x250.png #400x250.png
 categories: tech
 tags: broadcast mizuman
+ads: true
 ---
 
 こんにちは。みずまんです。  
