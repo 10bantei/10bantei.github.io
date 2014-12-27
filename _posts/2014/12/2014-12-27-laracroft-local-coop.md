@@ -8,7 +8,6 @@ title: ララ・クロフト（テンプルオブオシリス）で協力プレ�
 excerpt: PS4で2014年12月25日に発売されたララ・クロフトのテンプル オブ オシリスで、ローカルで協力プレイをする方法を紹介します。 
 image:
   teaser: 2014/12/laracroft-top-400x250.jpg #400x250.png
-  feature: 2014/12/laracroft-top-400x250.jpg
 categories: game
 tags: PS4 laracroft coop mizuman
 ads: true
