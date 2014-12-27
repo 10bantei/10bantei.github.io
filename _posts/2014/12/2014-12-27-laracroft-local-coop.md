@@ -19,7 +19,7 @@ ads: true
 
 <!--more-->
 
-## ララ・クロフト新作
+## トゥームレイダーシリーズ新作
 
 まずは、ララ・クロフト アンド テンプル オブ オシリス(Lara Croft and the Temple of Osiris)のLaunch trailerからご覧ください。
 
