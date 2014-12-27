@@ -11,7 +11,7 @@
     {% include open-graph.html %}
     {% if author.google.plus %}<link rel="author" href="https://plus.google.com/{{ author.google.plus }}"/>{% endif %}
 
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.relative_path }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.relative_path }}/">
 
     <link href="{{ site.relative_path }}/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Atom Feed">
     <link href="{{ site.relative_path }}/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
