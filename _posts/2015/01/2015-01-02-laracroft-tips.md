@@ -5,16 +5,16 @@ date: 2015-01-02 1:00:00+00:00
 layout: article
 slug: laracroft-tips
 title: "[ララ・クロフト] 爆弾範囲はどれだけ広くなる？"
-excerpt: "PS4/XBOX/PCでプレイ可能なララ・クロフトの最新タイトル「テンプル オブ オシリス」。指輪の効果でどれだけ爆弾範囲が広くなるか検証してみました。" 
+excerpt: "PS4/XBOX/PCでプレイ可能なララ・クロフトの最新タイトル「テンプル オブ オシリス」。指輪の効果でどれだけ爆弾範囲が広くなるか検証してみました。"
 image:
-  teaser: 2015/1/laracroft-tips_bomb-top-400x250.jpg
+  teaser: 2015/01/laracroft-tips_bomb-top-400x250.jpg
 categories: game
 tags: PS4 laracroft coop tk神
 ads: true
 ---
 
-新年あけましておめでとうございます。tk神です(・∀・) 
- 
+新年あけましておめでとうございます。tk神です(・∀・)
+
 昨年１２月に発売されたばかりの最新タイトル「[ララ・クロフト アンド テンプル オブ オシリス](http://www.jp.square-enix.com/lctoo/)」。ローカルでの協力プレイや、様々なチャレンジ（ステージごとに用意された成功報酬型のミッション）、宝箱を開けることでランダムに得られる武器・防具など、皆でワイワイしながら楽しめる要素が色々と詰まっています。
 
 今回は、指輪アイテムに付与されている「爆弾範囲拡大」のオプションについて、実際にどの程度爆弾範囲が拡大するのか検証してみました。  
@@ -26,7 +26,7 @@ ads: true
 検証で使用する指輪はこちら。「破壊のシルバーリング」
 
 <figure>
-  <img src="/images/2015/1/laracroft-tips_bomb-ring.jpg">
+  <img src="/images/2015/01/laracroft-tips_bomb-ring.jpg">
 </figure>
 
 爆破範囲拡大のオプションが付いています。ちなみに、指輪も他の防具と同じく、ブロンズよりもシルバーのほうがレアリティが高く、付与されるオプションの数が増加し、効果もより良いものになっています。
@@ -36,7 +36,7 @@ ads: true
 指輪を装備していないノーマル状態での爆弾範囲はこんな感じです。タイルで換算すると、約２マス分ですね。
 
 <figure>
-	<img src="/images/2015/1/laracroft-tips_bomb-test1.jpg">
+	<img src="/images/2015/01/laracroft-tips_bomb-test1.jpg">
 </figure>
 
 ## 指輪装備時の爆弾範囲
@@ -44,7 +44,7 @@ ads: true
 指輪を装備した状態での爆弾範囲はこんな感じです。同じくタイル数で換算すると、約３マス分にまで拡大していました。
 
 <figure>
-	<img src="/images/2015/1/laracroft-tips_bomb-test2.jpg">
+	<img src="/images/2015/01/laracroft-tips_bomb-test2.jpg">
 </figure>
 
 ## 検証結果

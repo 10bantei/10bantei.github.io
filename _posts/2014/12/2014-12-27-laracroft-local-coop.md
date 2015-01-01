@@ -5,7 +5,7 @@ date: 2014-12-27 17:59:00+00:00
 layout: article
 slug: laracroft-local-coop
 title: ララ・クロフト（テンプルオブオシリス）で協力プレイ
-excerpt: PS4で2014年12月25日に発売されたララ・クロフトのテンプル オブ オシリスで、ローカルで協力プレイをする方法を紹介します。 
+excerpt: PS4で2014年12月25日に発売されたララ・クロフトのテンプル オブ オシリスで、ローカルで協力プレイをする方法を紹介します。
 image:
   teaser: 2014/12/laracroft-top-400x250.jpg #400x250.png
 categories: game
