@@ -7,7 +7,7 @@ slug: how-to-broadcast
 title: ゲーム実況の映像配信に必要な機材とその方法
 excerpt: ニコニコ動画やYoutubeでゲーム実況や映像配信がめちゃくちゃ盛り上がってきてますね。でも、試しに配信しようと調べてみると情報が少なく、機材も高いので困ってしまいます。 そこで、ちょっとでも参考になればと、やり方をこれからまとめていきます。
 image:
-  teaser: 12/14/destiny-400x250.png #400x250.png
+  teaser: 2014/12/destiny-400x250.png #400x250.png
 categories: tech
 tags: broadcast mizuman
 ads: true

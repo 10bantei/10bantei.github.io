@@ -15,7 +15,7 @@ ads: true
 なんかingress起動したら一面緑色なんですけど。
 <!--more-->
 
-<img src="/images/12/13/ingress.png" width="320px" height="568px" alt="ingress" title="ingress" />
+<img src="/images/2014/12/ingress.png" width="320px" height="568px" alt="ingress" title="ingress" />
 
 なんでも、襟裳岬 - 青島 - グアムとかいう  
 ムチャクチャなCF張ったやつがいるらしいwww

@@ -5,7 +5,7 @@ layout: article
 title: "[ESO]宝の地図ってどうやって使うのん"
 excerpt: The Elder Scrolls Onlineはじめました！いろいろわからないことだらけでぐぐりながら進める毎日。日本語の情報がWeb上に一切ないので、英語を読みながら進めています。
 image:
-  teaser: 12/13/map2-400x250.png #400x250.png
+  teaser: 2014/12/map2-400x250.png #400x250.png
 slug: eso-treasure
 date: 2014-12-13 19:03:08 +0900
 categories: game
@@ -26,8 +26,8 @@ The Elder Scrolls Onlineはじめました！
 
 コレ  
 
-<a href="/images/12/13/map1.png">
-	<img src="/images/12/13/map1-thumb.png">
+<a href="/images/2014/12/map1.png">
+	<img src="/images/2014/12/map1-thumb.png">
 </a>
 
 これを持っていれば宝が埋まるようになるらしい。  
@@ -35,20 +35,20 @@ The Elder Scrolls Onlineはじめました！
 [宝の地図（Treasure map）](http://tamriel-times.blog.jp/archives/1001335239.html)  
 
 じゃあ早速ここにレッツゴー  
-<a href="/images/12/13/map2.png">
-	<img src="/images/12/13/map2-thumb.png">
+<a href="/images/2014/12/map2.png">
+	<img src="/images/2014/12/map2-thumb.png">
 </a>
 
 きっとこのへん  
-<a href="/images/12/13/map3.png">
-	<img src="/images/12/13/map3-thumb.png">
+<a href="/images/2014/12/map3.png">
+	<img src="/images/2014/12/map3-thumb.png">
 </a>
 
 と思って探し回っていたけど、盛り土なんて見つからず。  
 代わりにこんな不自然にかたまった鉄を発見。  
 
-<a href="/images/12/13/map4.png">
-	<img src="/images/12/13/map4-thumb.png">
+<a href="/images/2014/12/map4.png">
+	<img src="/images/2014/12/map4-thumb.png">
 </a>
 
 Rich Iron Ore？？？  
@@ -58,8 +58,8 @@ Rich Iron Ore？？？
 Rich High Iron Ore1つが手に入った。  
 この辺の採掘を始めたら地図が消えたから、コレが宝に間違いなさそう。
 
-<a href="/images/12/13/map5.png">
-	<img src="/images/12/13/map5-thumb.png">
+<a href="/images/2014/12/map5.png">
+	<img src="/images/2014/12/map5-thumb.png">
 </a>
 
 ClothingやWood Workingでも一緒。  
@@ -68,6 +68,6 @@ LV.1って書いてあるからしょぼいのかな。
 一応Lv.2のも持ってる。  
 コレ地図じゃなくて周辺図っぽいけど･･･  
 どこやねん。
-<a href="/images/12/13/map6.png">
-	<img src="/images/12/13/map6-thumb.png">
+<a href="/images/2014/12/map6.png">
+	<img src="/images/2014/12/map6-thumb.png">
 </a>
