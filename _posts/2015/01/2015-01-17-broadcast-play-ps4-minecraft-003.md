@@ -17,8 +17,8 @@ ads: true
 こんにちは。みずまんです。
 プレイ動画の撮影を開始しました。
 
-[#2はこちら](2015/01/17/broadcast-play-ps4-minecraft-002/)
-[#4はこちら](2015/01/17/broadcast-play-ps4-minecraft-004/)
+[#2はこちら](/2015/01/17/broadcast-play-ps4-minecraft-002/)
+[#4はこちら](/2015/01/17/broadcast-play-ps4-minecraft-004/)
 
 まだ、編集もしていないダラダラプレイですが、
 PS4版のMinecraftを買おうか迷っている人に参考になれば嬉しいです。
