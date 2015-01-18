@@ -17,7 +17,7 @@ ads: true
 こんにちは。みずまんです。  
 arukakanが妖怪ウォッチのジバニャンを召還！  
 （そのうち、設計図とか、レシピとか、作り方をまとめてくれると期待）  
-[#書いたよボス](/2015/01/19/jibanyan/)
+[#書いたよボス](/2015/01/18/jibanyan/)
 
 ![PS4版Minecraftでジバニャン召還](/images/2015/01/Minecraft_ PlayStation®4 Edition_20150117235450.jpg "PS4版Minecraftでジバニャン召還")
 
